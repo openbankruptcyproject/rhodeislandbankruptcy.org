@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>rhodeislandbankruptcy.org -- Bankruptcy Information</title>
+  <subtitle>Free bankruptcy information and guides from the Open Bankruptcy Project</subtitle>
+  <link href="https://rhodeislandbankruptcy.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://rhodeislandbankruptcy.org/" rel="alternate" type="text/html"/>
+  <id>https://rhodeislandbankruptcy.org/</id>
+  <updated>2026-04-08T00:00:00Z</updated>
+  <author>
+    <name>Open Bankruptcy Project</name>
+    <uri>https://openbankruptcyproject.org</uri>
+  </author>
+  <rights>Copyright 2026 Open Bankruptcy Project</rights>
+  <entry>
+    <title>Rhode Island Bankruptcy -- Chapter 7 &amp; 13 Filing Guide [2026]</title>
+    <link href="https://rhodeislandbankruptcy.org/" rel="alternate"/>
+    <id>https://rhodeislandbankruptcy.org/</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Free Rhode Island bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Rhode Island exemptions, filing costs, means test, and what to expect in your case.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The 341 Meeting of Creditors in Rhode Island</title>
+    <link href="https://rhodeislandbankruptcy.org/341-meeting.html" rel="alternate"/>
+    <id>https://rhodeislandbankruptcy.org/341-meeting.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What to expect at the 341 meeting of creditors in Rhode Island bankruptcy. How to prepare, common questions, what to bring, and tips for success.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The Automatic Stay in Rhode Island Bankruptcy</title>
+    <link href="https://rhodeislandbankruptcy.org/automatic-stay.html" rel="alternate"/>
+    <id>https://rhodeislandbankruptcy.org/automatic-stay.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Learn how the automatic stay protects Rhode Island residents when filing bankruptcy.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bank Accounts and Bankruptcy in Rhode Island</title>
+    <link href="https://rhodeislandbankruptcy.org/bank-account.html" rel="alternate"/>
+    <id>https://rhodeislandbankruptcy.org/bank-account.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How bankruptcy affects your bank account in Rhode Island. Levies, setoff rights, protecting deposits, and what to do before filing in D.R.I..</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Can I Buy a Car While in Chapter 13 in Rhode Island?</title>
+    <link href="https://rhodeislandbankruptcy.org/buy-car-chapter-13.html" rel="alternate"/>
+    <id>https://rhodeislandbankruptcy.org/buy-car-chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How to buy a car during Chapter 13 bankruptcy in Rhode Island. Court motions, trustee approval, interest rates, and budget requirements.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Buying a House After Bankruptcy in Rhode Island</title>
+    <link href="https://rhodeislandbankruptcy.org/buying-a-house.html" rel="alternate"/>
+    <id>https://rhodeislandbankruptcy.org/buying-a-house.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>When and how you can buy a home after filing bankruptcy in Rhode Island. Waiting periods for FHA, VA, and conventional loans, credit rebuilding, and.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Car Leases and Bankruptcy in Rhode Island</title>
+    <link href="https://rhodeislandbankruptcy.org/car-lease.html" rel="alternate"/>
+    <id>https://rhodeislandbankruptcy.org/car-lease.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What happens to your car lease in Rhode Island bankruptcy. Assume or reject, 60-day deadline, early termination fees, and practical options.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy Eligibility in Rhode Island</title>
+    <link href="https://rhodeislandbankruptcy.org/chapter-13-eligibility.html" rel="alternate"/>
+    <id>https://rhodeislandbankruptcy.org/chapter-13-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Chapter 13 eligibility requirements in Rhode Island. Debt limits, regular income, plan length, and requirements for filing in D.R.I..</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Payments in Rhode Island</title>
+    <link href="https://rhodeislandbankruptcy.org/chapter-13-payments.html" rel="alternate"/>
+    <id>https://rhodeislandbankruptcy.org/chapter-13-payments.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How Chapter 13 payment amounts are calculated in Rhode Island. Disposable income, plan length, missed payments, and modification options in D.R.I..</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy in Rhode Island -- Payment Plans, Timeline</title>
+    <link href="https://rhodeislandbankruptcy.org/chapter-13.html" rel="alternate"/>
+    <id>https://rhodeislandbankruptcy.org/chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Guide to Chapter 13 bankruptcy in Rhode Island. Payment plan basics, timeline, 3-5 year commitment, and what to expect during the repayment process.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+</feed>
