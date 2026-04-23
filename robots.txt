@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://rhodeislandbankruptcy.org/sitemap.xml
 
-Sitemap: https://rhodeislandbankruptcy.org/feed.xml
+
+Sitemap: https://rhodeislandbankruptcy.org/sitemapindex.xml
