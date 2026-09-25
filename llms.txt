@@ -1,7 +1,7 @@
-# Rhode Island Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Rhode Island Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
-> Free Rhode Island bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Rhode Island exemptions, filing costs, means test, and what...
+> Free Rhode Island bankruptcy guide for 2026.
 
 ## About
 rhodeislandbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
@@ -32,12 +32,12 @@ rhodeislandbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcy
 - Can I Keep My Jewelry in Rhode Island Bankruptcy?: https://rhodeislandbankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction in Rhode Island?: https://rhodeislandbankruptcy.org/eviction.html
 - Rhode Island Bankruptcy Exemptions - What You Can Keep: https://rhodeislandbankruptcy.org/exemptions.html
-- Rhode Island Bankruptcy FAQ - 15 Common Questions Answered: https://rhodeislandbankruptcy.org/faq.html
+- Rhode Island Bankruptcy FAQ [2026]: D. Rhode Island Filing, 341 Meetings, and Exemptions: https://rhodeislandbankruptcy.org/faq.html
 - How to Find Bankruptcy Filings in Rhode Island: https://rhodeislandbankruptcy.org/find-bankruptcy-filing.html
 - Foreclosure and Bankruptcy in Rhode Island: https://rhodeislandbankruptcy.org/foreclosure.html
 - Rhode Island Bankruptcy Glossary: https://rhodeislandbankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Rhode Island: https://rhodeislandbankruptcy.org/income-limits.html
-- Rhode Island Bankruptcy - Chapter 7 & 13 Filing Guide: https://rhodeislandbankruptcy.org/
+- Rhode Island Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://rhodeislandbankruptcy.org/
 - Judgments and Bankruptcy in Rhode Island: https://rhodeislandbankruptcy.org/judgments.html
 - Keep Your Car in Rhode Island Bankruptcy: https://rhodeislandbankruptcy.org/keep-your-car.html
 - Keep Your House in Rhode Island Bankruptcy: https://rhodeislandbankruptcy.org/keep-your-house.html
@@ -65,7 +65,7 @@ rhodeislandbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcy
 - Second Mortgages and Bankruptcy in Rhode Island: https://rhodeislandbankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance in Rhode Island - Will I Lose My Clearance?: https://rhodeislandbankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in Rhode Island: https://rhodeislandbankruptcy.org/small-business.html
-- Rhode Island Bankruptcy Statistics - Filing Data and Trends: https://rhodeislandbankruptcy.org/statistics.html
+- Rhode Island Bankruptcy Statistics [2026]: D. Rhode Island PACER Filing Data and Trends: https://rhodeislandbankruptcy.org/statistics.html
 - What Bills to Stop Paying Before Bankruptcy in Rhode Island: https://rhodeislandbankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in Rhode Island: https://rhodeislandbankruptcy.org/student-loans.html
 - Surrendering Your Car in Rhode Island Bankruptcy - Process, Deficiency, Options: https://rhodeislandbankruptcy.org/surrender-car.html
@@ -76,6 +76,7 @@ rhodeislandbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcy
 - Can I Travel During Chapter 13 in Rhode Island?: https://rhodeislandbankruptcy.org/travel-chapter-13.html
 - Wage Garnishment and Bankruptcy in Rhode Island: https://rhodeislandbankruptcy.org/wage-garnishment.html
 - Privacy Policy: https://rhodeislandbankruptcy.org/privacy.html
+- About rhodeislandbankruptcy.org: https://rhodeislandbankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
